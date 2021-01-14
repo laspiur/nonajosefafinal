@@ -121,7 +121,7 @@ class Product extends Component {
       <SuggestedProducts />
       <ExploreBanner />
       <SocialMedia />
-      <Footer />
+      {/* <Footer /> */}
     </Root>
     );
   }

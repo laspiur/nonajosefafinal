@@ -5,12 +5,12 @@ import Modal from '../common/atoms/Modal';
 const reviews = [
   {
     stars: '5',
-    title: 'Perfect',
-    description: 'Great fit and feel. They elevate lounging to the next level!',
+    title: 'Perfecto',
+    description: 'Hermoso! Gran calidad y terminaciones',
     reviewBy: 'Heidi C.',
     date: 'December, 2019'
   },
-  {
+  /* {
     stars: '3.5',
     title: 'So comfortable!',
     description:
@@ -25,7 +25,7 @@ const reviews = [
       'Comfortable but kinda thin for a pant. I typically wear a 32/33 pant and had to size up to XL for these to not fit like a legging. Have been wearing pretty solid for a month of so and there\'s some pilling, but not a lot. Good price for OK product.',
     reviewBy: 'Heidi C.',
     date: 'December, 2019'
-  },
+  }, */
   {
     stars: '5',
     title: 'So comfortable!',
