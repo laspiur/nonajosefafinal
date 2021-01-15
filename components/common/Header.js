@@ -163,11 +163,11 @@ class Header extends Component {
     }
 
     return (
-      <Link href="/login">
+       <Link href="/login">
         <a className="font-color-black login">
-          Login
+          {/* Login */}
         </a>
-      </Link>
+      </Link> 
     );
   }
 
@@ -211,7 +211,7 @@ class Header extends Component {
               </a>
             </Link>
           </div>
-{/*           <div className="d-flex">
+           {/* <div className="d-flex">
             { process.browser && this.renderLoginLogout() }
             <div
               className="position-relative cursor-pointer"
@@ -222,7 +222,7 @@ class Header extends Component {
                 {cart.total_items}
               </div>
             </div>
-          </div> */}
+          </div>  */}
         </div>
 
         {/* Mobile Menu */}
