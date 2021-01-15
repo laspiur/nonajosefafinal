@@ -29,7 +29,7 @@ const mobileMenuLinks = [
     link: '/'
   },
   {
-    name: 'Comprar',
+    name: 'Explorar',
     link: '/collection'
   },
   {
@@ -186,7 +186,7 @@ class Header extends Component {
         >
           <div className="d-none d-sm-flex">
             <Link href="/collection">
-              <a href="/collection" className="mr-4 font-color-black">Comprar</a>
+              <a href="/collection" className="mr-4 font-color-black">Ver cat&aacute;logo</a>
             </Link>
             <Link href="/about">
               <a href="/about" className="font-color-black">

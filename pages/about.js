@@ -13,7 +13,7 @@ const About = () => (
                 Nona Josefa Objetos
               </h2>
               <h4 className="font-size-subheader mb-4">
-                Somos una carpinter&iacute;a de la gran ostia
+              Soy Daniela Torre, mam&aacute;, docente y emprendedora. Siempre me gust&oacute; fabricar cosas con mis manos.  Nona Josefa es mi proyecto para convertir mis diseños y tus pedidos en realidad.
               </h4>
               {/* <div className="about-cjs mt-3 d-flex flex-row">
                 <a className="px-4 py-3 font-color-white about-doc" href="https://commercejs.com/docs/" target="_blank">

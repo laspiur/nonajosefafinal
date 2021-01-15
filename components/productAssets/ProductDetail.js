@@ -113,9 +113,9 @@ class ProductDetail extends Component {
     return (
       <div>
         {/* Product Summary */}
-        <div onClick={this.handleReviewClick} className="cursor-pointer">
+{/*         <div onClick={this.handleReviewClick} className="cursor-pointer">
           <ReviewStars count={4.5} />
-        </div>
+        </div> */}
         <p className="font-size-display3 font-family-secondary mt-2 mb-2">
           {name}
         </p>
