@@ -48,7 +48,7 @@ export default class ExploreBanner extends React.Component {
       <div className="py-5 mb-5 explore-banner">
         <div className="bg-brand300 position-relative py-md-5">
           {/* Image Absolute */}
-          <div className="position-md-absolute left-0 bottom-0 right-0">
+          {/* <div className="position-md-absolute left-0 bottom-0 right-0">
             <div className="custom-container px-0">
               <div className="row">
                 <div className="col-md-5 offset-md-7">
@@ -64,9 +64,9 @@ export default class ExploreBanner extends React.Component {
               </div>
             </div>
           </div>
-
+ */}
           {/* Content */}
-          <div ref={this.exploreContainer} className="custom-container py-md-5">
+{/*           <div ref={this.exploreContainer} className="custom-container py-md-5">
             <div className="row py-5">
               <div className="col-12 col-md-6 py-5">
                 <p
@@ -85,7 +85,7 @@ export default class ExploreBanner extends React.Component {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     );
