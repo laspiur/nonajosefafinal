@@ -211,9 +211,9 @@ class Header extends Component {
               </a>
             </Link>
           </div>
-           {/* <div className="d-flex">
+            <div className="d-flex">
             { process.browser && this.renderLoginLogout() }
-            <div
+{/*             <div
               className="position-relative cursor-pointer"
               onClick={this.toggleCart}
             >
@@ -221,8 +221,8 @@ class Header extends Component {
               <div className="cart-count position-absolute font-size-tiny font-weight-bold">
                 {cart.total_items}
               </div>
-            </div>
-          </div>  */}
+            </div> */}
+          </div>  
         </div>
 
         {/* Mobile Menu */}
