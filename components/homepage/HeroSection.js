@@ -40,7 +40,7 @@ export default class HeroSection extends Component {
                 <p className="font-size-display5 font-family-secondary mb-4 text-center hero-header">
                   Objetos que embellecer&aacute;n tu casa
                 </p>
-                <p className="text-transform-uppercase font-size-title mb-5 hero-subheader">
+                <p className="text-transform-uppercase font-size-title mb-5 hero-subheader text-center">
                   Una variedad de productos para vos
                 </p>
                 <Link href="/collection">
