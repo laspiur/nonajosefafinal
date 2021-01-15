@@ -4,7 +4,7 @@ const Footer = () => (
   <footer className="pt-5">
     <div className="custom-container mb-5 pb-5 pt-5">
       <div className="row">
-        <div className="col-12 col-sm-6 col-md-4">
+{/*          <div className="col-12 col-sm-6 col-md-4">
           <p className="font-family-secondary font-size-display1 mb-4">
             Commerce.js
           </p>
@@ -42,22 +42,22 @@ const Footer = () => (
               </a>
             </div>
           </div>
-        </div>
+        </div>  */}
         <div className="col-12 col-sm-6 col-md-4">
           <p className="font-family-secondary font-size-display1 mb-4">
-            Follow us
+            Seguinos
           </p>
           <div className="d-flex font-color-medium mb-5 pb-3 pb-md-0 mb-md-0">
             <div className="pr-5">
-              <a
+  {/*             <a
                 href="https://twitter.com/commercejs"
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
               >
                 Twitter
-              </a>
+              </a>  */}
               <a
-                href="https://www.instagram.com/commerce.js/"
+                href="https://www.instagram.com/nonajosefaobjetos"
                 className="d-block font-color-medium"
                 target="_blank"
               >
@@ -66,39 +66,52 @@ const Footer = () => (
             </div>
             <div>
               <a
-                href="https://angel.co/company/chec"
+                href="https://www.facebook.com/Killsor"
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
               >
-                Angel
+                Facebook
               </a>
-              <a
+{/*                <a
                 href="https://www.linkedin.com/company/chec-chec-commerce-inc.-/"
                 className="d-block font-color-medium"
                 target="_blank"
-              >
+               >
                 LinkedIn
-              </a>
+              </a>  */}
             </div>
           </div>
         </div>
         <div className="col-12 col-md-4">
           <p className="font-family-secondary font-size-display1 mb-3">
-            Newsletter
+            Contacto
           </p>
-          <div className="position-relative">
-            <input
-              className="borderbottom border-color-gray400 h-48 w-100 px-3"
-              placeholder="email address"
-            />
-            <button className="bg-transparent position-absolute right-0 top-50 translateY--50 pr-2 h-48">
-              <img src="/icon/arrow-long-right.svg" className="w-24" alt="Arrow icon"/>
-            </button>
+          <div className="d-flex font-color-medium mb-5 pb-3 pb-md-0 mb-md-0">
+            <div className="pr-5">
+
+              <a
+                href="mailto:nonajosefa20@gmail.com"
+                className="d-block font-color-medium"
+                target="_blank"
+              >
+                Mail: nonajosefa20@gmail.com
+              </a>
+            </div>
+            <div>
+              <a
+                href="https://api.whatsapp.com/send?phone=5493534786962&text=Hola,%20quisiera%20conocer%20m%C3%A1s%20sobre%20tus%20productos"
+                className="mb-3 d-block font-color-medium"
+                target="_blank"
+              >
+                Wsp: 353-4786962
+              </a>
+
+            </div>
           </div>
         </div>
       </div>
     </div>
-    <div className="pt-md-5">
+{/*     <div className="pt-md-5">
       <div className="bg-brand300">
         <div className="custom-container d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div className="pt-5 pb-0 pt-md-4 pb-md-4 d-flex align-items-center flex-wrap justify-content-center">
@@ -137,7 +150,7 @@ const Footer = () => (
           </div>
         </div>
       </div>
-    </div>
+    </div> */}
   </footer>
 );
 

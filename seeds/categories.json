@@ -1,23 +1,37 @@
 [
   {
-    "slug": "facial-products",
-    "name": "Facial Products",
+    "slug": "percheros",
+    "name": "Percheros",
     "meta": {
       "image": "/images/collection/1.png"
     }
   },
   {
-    "slug": "hair-products",
-    "name": "Hair Products",
+    "slug": "estantes",
+    "name": "Estantes",
     "meta": {
       "image": "/images/collection/2.png"
     }
   },
   {
-    "slug": "body-products",
-    "name": "Body Products",
+    "slug": "maceteros",
+    "name": "Maceteros",
     "meta": {
       "image": "/images/collection/3.png"
+    }
+  },
+  {
+    "slug": "objetos",
+    "name": "Objetos",
+    "meta": {
+      "image": "/images/collection/4.png"
+    }
+  },
+    {
+    "slug": "muebles",
+    "name": "Muebles",
+    "meta": {
+      "image": "/images/collection/5.png"
     }
   }
 ]

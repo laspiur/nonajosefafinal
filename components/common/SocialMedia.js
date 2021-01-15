@@ -9,7 +9,7 @@ const imagesInfo = [
     image: '/images/insta/2.jpg',
     translateRatio: 30
   },
-  {
+   {
     image: '/images/insta/3.jpg',
     translateRatio: 0
   },
@@ -20,7 +20,7 @@ const imagesInfo = [
   {
     image: '/images/insta/5.jpg',
     translateRatio: -80
-  }
+  } 
 ];
 
 export default class SocialMedia extends React.Component {
