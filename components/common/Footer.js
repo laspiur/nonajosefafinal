@@ -66,7 +66,7 @@ const Footer = () => (
             </div>
             <div>
               <a
-                href="https://www.facebook.com/Killsor"
+                href="https://www.facebook.com/Nona-Josefa-Objetos-103293745094175"
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
               >
@@ -103,7 +103,7 @@ const Footer = () => (
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
               >
-                Wsp: 353-4786962
+                Wsp: 353-4407533
               </a>
 
             </div>
